@@ -1,0 +1,41 @@
+#title{
+    text-align: center;
+    background-color: bisque;
+    margin: 0%;
+    padding: 7% 15%;
+    /* margin: 5% 12.5%; */
+
+}
+
+#buttonSection{
+    text-align: center;
+    background-color: bisque;
+    padding: 7% 15%;
+    /* margin: 0%; */
+
+}
+
+#title h1{
+    font-size: 60px;   
+}
+
+#title h3{
+    font-size: 25px;
+    padding-top: 0px;
+}
+
+#buttons{
+    text-align: center;
+    padding: 7% 15%;
+    background-color: burlywood;
+}
+
+#Dice{
+    text-align: center;
+    padding: 7% 15%;
+}
+
+body{
+    background-color: green;
+}
+
